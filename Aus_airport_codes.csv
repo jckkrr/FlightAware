@@ -1,0 +1,191 @@
+ICAO,IATA,Name,Type,Municipality
+YPAD,ADL,Adelaide International Airport,Large airport,Adelaide
+YABA,ALH,Albany Airport,Medium airport,Albany
+YMAY,ABX,Albury Airport,Medium airport,Albury
+YBAS,ASP,Alice Springs Airport,Medium airport,Alice Springs
+YAPH,ABH,Alpha Airport,Medium airport,Alpha
+YARA,ARY,Ararat Airport,Medium airport,Ararat
+YARM,ARM,Armidale Airport,Medium airport,Armidale
+YMAV,AVV,Avalon Airport,Medium airport,Melbourne
+YAYE,AYQ,Ayers Rock Connellan Airport,Medium airport,Ayers Rock
+YBNS,BSJ,Bairnsdale Airport,Medium airport,Victoria
+YBNA,BNK,Ballina Byron Gateway Airport,Medium airport,Ballina
+YBRN,BZD,Balranald Airport,Medium airport,Balranald
+YBAR,BCI,Barcaldine Airport,Medium airport,Barcaldine
+YBTH,BHS,Bathurst Airport,Medium airport,Bathurst
+YBTI,BRT,Bathurst Island Airport,Medium airport,Wurrumiyanga
+YBIE,BEU,Bedourie Airport,Medium airport,Queensland
+YBLA,BLN,Benalla Airport,Medium airport,Benalla
+YBDV,BVI,Birdsville Airport,Medium airport,Shire of Diamantina
+YBCK,BKQ,Blackall Airport,Medium airport,Blackall
+YBTR,BLT,Blackwater Airport,Medium airport,Queensland
+YBOU,BQL,Boulia Airport,Medium airport,Queensland
+YBKE,BRK,Bourke Airport,Medium airport,New South Wales
+YBRW,BWQ,Brewarrina Airport,Medium airport,Brewarrina
+YBBN,BNE,Brisbane International Airport,Large airport,Brisbane
+YBHI,BHQ,Broken Hill Airport,Medium airport,Broken Hill
+YBRM,BME,Broome International Airport,Medium airport,Broome
+YBUD,BDB,Bundaberg Airport,Medium airport,Bundaberg
+YBCS,CNS,Cairns International Airport,Medium airport,Cairns
+YSCN,CDU,Camden Airport,Medium airport,Sydney
+YSCB,CBR,Canberra International Airport,Large airport,Canberra
+YCAR,CVQ,Carnarvon Airport,Medium airport,Carnarvon
+YCDU,CED,Ceduna Airport,Medium airport,Flinders
+YBCV,CTL,Charleville Airport,Medium airport,Charleville
+YCCA,CCL,Chinchilla Airport,Medium airport,Chinchilla
+YCMT,CMQ,Clermont Airport,Medium airport,Clermont
+YCEE,CVC,Cleve Airport,Medium airport,Cleve
+YCCY,CNJ,Cloncurry Airport,Medium airport,Cloncurry
+YCBA,CAZ,Cobar Airport,Medium airport,New South Wales
+YCOE,CUQ,Coen Airport,Medium airport,Coen
+YCFS,CFS,Coffs Harbour Airport,Medium airport,Coffs Harbour
+YCBP,CPD,Coober Pedy Airport,Medium airport,Coober Pedy
+YCKN,CTN,Cooktown Airport,Medium airport,Cooktown
+YCOM,OOM,Cooma Snowy Mountains Airport,Medium airport,Cooma
+YCBB,COJ,Coonabarabran Airport,Medium airport,Coonabarabran
+YCNM,CNB,Coonamble Airport,Medium airport,New South Wales
+YCTM,CMD,Cootamundra Airport,Medium airport,Cootamundra
+YCOR,CWW,Corowa Airport,Medium airport,Corowa
+YCRG,CYG,Corryong Airport,Medium airport,Corryong
+YCWR,CWT,Cowra Airport,Medium airport,Cowra
+YCMU,CMA,Cunnamulla Airport,Medium airport,Cunnamulla
+YPDN,DRW,Darwin International Airport,Medium airport,Darwin
+YDLQ,DNQ,Deniliquin Airport,Medium airport,Deniliquin
+YDBY,DRB,Derby Airport,Medium airport,Derby
+YDPO,DPO,Devonport Airport,Medium airport,Devonport
+YDBI,DRN,Dirranbandi Airport,Medium airport,Dirranbandi
+YSDU,DBO,Dubbo City Regional Airport,Medium airport,Dubbo
+YDYS,DYA,Dysart Airport,Medium airport,Dysart
+YECH,ECH,Echuca Airport,Medium airport,Echuca
+YELD,ELC,Elcho Island Airport,Medium airport,Elcho Island
+YEML,EMD,Emerald Airport,Medium airport,Emerald
+YESP,EPR,Esperance Airport,Medium airport,Esperance
+YFTZ,FIZ,Fitzroy Crossing Airport,Medium airport,Fitzroy Crossing
+YFBS,FRB,Forbes Airport,Medium airport,Forbes
+YFRT,FOS,Forrest Airport,Medium airport,Forrest
+YGPT,GPN,Garden Point Airport,Medium airport,Pularumpi
+YGEL,GET,Geraldton Airport,Medium airport,Geraldton
+YGLA,GLT,Gladstone Airport,Medium airport,Gladstone
+YGLI,GLI,Glen Innes Airport,Medium airport,Glen Innes
+YBCG,OOL,Gold Coast Airport,Medium airport,Gold Coast
+YGLB,GUL,Goulburn Airport,Medium airport,Goulburn
+YPGV,GOV,Gove Airport,Medium airport,Nhulunbuy
+YGFN,GFN,Grafton Airport,Medium airport,Grafton
+YGTH,GFF,Griffith Airport,Medium airport,Griffith
+YGTE,GTE,Groote Eylandt Airport,Medium airport,Groote Eylandt
+YGDH,GUH,Gunnedah Airport,Medium airport,Gunnedah
+YHLC,HCQ,Halls Creek Airport,Medium airport,Halls Creek
+YHML,HLT,Hamilton Airport,Medium airport,Hamilton
+YBHM,HTI,Hamilton Island Airport,Medium airport,Hamilton Island
+YHAY,HXX,Hay Airport,Medium airport,Riverina
+YHBA,HVB,Hervey Bay Airport,Medium airport,Hervey Bay
+YMHB,HBA,Hobart International Airport,Medium airport,Hobart
+YHPN,HTU,Hopetoun Airport,Medium airport,Hopetoun
+YHID,HID,Horn Island Airport,Medium airport,Horn Island
+YHSM,HSM,Horsham Airport,Medium airport,Horsham
+YIVL,IVR,Inverell Airport,Medium airport,Inverell
+YPKG,KGI,Kalgoorlie Boulder Airport,Medium airport,Kalgoorlie
+YPKA,KTA,Karratha Airport,Medium airport,Karratha
+YKMP,KPS,Kempsey Airport,Medium airport,Kempsey
+YKER,KRA,Kerang Airport,Medium airport,Kerang
+YKII,KNS,King Island Airport,Medium airport,Currie
+YKRY,KGY,Kingaroy Airport,Medium airport,Kingaroy
+YKSC,KGC,Kingscote Airport,Medium airport,Kingscote
+YKOW,KWM,Kowanyama Airport,Medium airport,Kowanyama
+YPKU,KNX,Kununurra Airport,Medium airport,Kununurra
+YLTV,TGN,Latrobe Valley Airport,Medium airport,Morwell
+YMLT,LST,Launceston Airport,Medium airport,Launceston
+YPLM,LEA,Learmonth Airport,Medium airport,Exmouth
+YLEC,LGH,Leigh Creek Airport,Medium airport,Leigh Creek
+YLST,LER,Leinster Airport,Medium airport,Leinster
+YLEO,LNO,Leonora Airport,Medium airport,Leonora
+YLRD,LHG,Lightning Ridge Airport,Medium airport,New South Wales
+YLIS,LSY,Lismore Airport,Medium airport,Lismore
+YLHR,IRG,Lockhart River Airport,Medium airport,Lockhart River
+YLRE,LRE,Longreach Airport,Medium airport,Longreach
+YBMK,MKY,Mackay Airport,Medium airport,Mackay
+YMGD,MNG,Maningrida Airport,Medium airport,Maningrida
+YMBA,MRG,Mareeba Airport,Medium airport,Mareeba
+YMEK,MKR,Meekatharra Airport,Medium airport,Mid West
+YMEN,MEB,Melbourne Essendon Airport,Medium airport,Essendon Fields
+YMML,MEL,Melbourne International Airport,Large airport,Melbourne
+YMMB,MBW,Melbourne Moorabbin Airport,Medium airport,Melbourne
+YMER,MIM,Merimbula Airport,Medium airport,Merimbula
+YMIA,MQL,Mildura Airport,Medium airport,Mildura
+YMRB,MOV,Moranbah Airport,Medium airport,Moranbah
+YMOR,MRZ,Moree Airport,Medium airport,Moree
+YMRY,MYA,Moruya Airport,Medium airport,Moruya
+YMTG,MGB,Mount Gambier Airport,Medium airport,Wandilo
+YHOT,MHU,Mount Hotham Airport,Medium airport,Mount Hotham
+YBMA,ISA,Mount Isa Airport,Medium airport,Mount Isa
+YMNE,WME,Mount Keith Airport,Medium airport,Mount Keith Mine
+YMOG,MMG,Mount Magnet Airport,Medium airport,Mount Magnet
+YMDG,DGE,Mudgee Airport,Medium airport,Mudgee
+YNBR,NAA,Narrabri Airport,Medium airport,Narrabri
+YNAR,NRA,Narrandera Airport,Medium airport,Narrandera
+YNRM,QRM,Narromine Airport,Medium airport,Narromine
+YWLM,NTL,Newcastle Airport,Medium airport,Williamtown
+YNWN,ZNE,Newman Airport,Medium airport,Newman
+YNGU,RPM,Ngukurr Airport,Medium airport,Roper River
+YNTN,NTN,Normanton Airport,Medium airport,Normanton
+YSNW,NOA,Nowra Airport,Medium airport,Nowra
+YBOK,OKY,Oakey Airport,Medium airport,Queensland
+YORG,OAG,Orange Airport,Medium airport,Orange
+YPBO,PBO,Paraburdoo Airport,Medium airport,Paraburdoo
+YPKS,PKE,Parkes Airport,Medium airport,Parkes
+YPPH,PER,Perth International Airport,Large airport,Perth
+YPJT,JAD,Perth Jandakot Airport,Medium airport,Perth
+YPAG,PUG,Port Augusta Airport,Medium airport,Port Augusta
+YPPD,PHE,Port Hedland International Airport,Medium airport,Port Hedland
+YPKT,PKT,Port Keats Airport,Medium airport,
+YPLC,PLO,Port Lincoln Airport,Medium airport,Port Lincoln
+YPMQ,PQQ,Port Macquarie Airport,Medium airport,Port Macquarie
+YPIR,PPI,Port Pirie Airport,Medium airport,Port Pirie
+YPOD,PTJ,Portland Airport,Medium airport,Cashmore
+YBPN,PPP,Proserpine Whitsunday Coast Airport,Medium airport,Proserpine
+YQLP,ULP,Quilpie Airport,Medium airport,Quilpie
+YAMB,,RAAF Base Amberley,Medium airport,Ipswich
+YCIN,DCN,RAAF Base Curtin,Medium airport,Derby
+YMES,,RAAF Base East Sale,Medium airport,Sale
+YPED,,RAAF Base Edinburgh,Medium airport,Adelaide
+YPEA,,RAAF Base Pearce,Medium airport,Bullsbrook
+YSRI,XRH,RAAF Base Richmond,Medium airport,Richmond
+YREN,RMK,Renmark Airport,Medium airport,Renmark
+YBRK,ROK,Rockhampton Airport,Medium airport,Rockhampton
+YROM,RMA,Roma Airport,Medium airport,Roma
+YSHK,MJK,Shark Bay Airport,Medium airport,Denham
+YSHT,SHT,Shepparton Airport,Medium airport,Shepparton
+YSMI,SIO,Smithton Airport,Medium airport,Smithton
+YSNB,SNB,Snake Bay Airport,Medium airport,Milikapiti
+YSWL,SWC,Stawell Airport,Medium airport,Stawell
+YBSU,MCY,Sunshine Coast Airport,Medium airport,Maroochydore
+YSWH,SWH,Swan Hill Airport,Medium airport,Swan Hill
+YSBK,BWU,Sydney Bankstown Airport,Medium airport,Sydney
+YSSY,SYD,Sydney Airport,Large airport,Sydney
+YSTW,TMW,Tamworth Airport,Medium airport,Tamworth
+YTRE,TRO,Taree Airport,Medium airport,Taree
+YTEF,TEF,Telfer Airport,Medium airport,Telfer
+YTEM,TEM,Temora Airport,Medium airport,Temora
+YTNK,TCA,Tennant Creek Airport,Medium airport,Tennant Creek
+YTNG,THG,Thangool Airport,Medium airport,Biloela
+YTGM,XTG,Thargomindah Airport,Medium airport,Thargomindah
+YTIB,TYB,Tibooburra Airport,Medium airport,Tibooburra
+YPTN,KTR,RAAF Base Tindal,Medium airport,Katherine
+YBWW,WTB,Toowoomba Wellcamp Airport,Medium airport,Toowoomba
+YBTL,TSV,Townsville Airport,Medium airport,Townsville
+YTMU,TUM,Tumut Airport,Medium airport,Tumut
+YSWG,WGA,Wagga Wagga City Airport,Medium airport,Wagga Wagga
+YWLG,WGE,Walgett Airport,Medium airport,Walgett
+YWGT,WGT,Wangaratta Airport,Medium airport,Wangaratta
+YWKB,WKB,Warracknabeal Airport,Medium airport,Warracknabeal
+YWRN,QRR,Warren Airport,Medium airport,Warren
+YBWP,WEI,Weipa Airport,Medium airport,Weipa
+YWSL,SXE,West Sale Airport,Medium airport,Sale
+YWWL,WWY,West Wyalong Airport,Medium airport,West Wyalong
+YWHA,WYA,Whyalla Airport,Medium airport,Whyalla
+YWLU,WUN,Wiluna Airport,Medium airport,Mid West region
+YWDH,WNR,Windorah Airport,Medium airport,Windorah
+YWTN,WIN,Winton Airport,Medium airport,Queensland
+YWOL,WOL,Wollongong Airport,Medium airport,Shellharbour
+YWYY,BWT,Wynyard Airport,Medium airport,Burnie
+YYNG,NGA,Young Airport,Medium airport,South West Slopes
